@@ -57,10 +57,13 @@ ol, ul {
     margin-left: 100px;
     margin-right: 100px;
     padding: 2em;
+    padding-top: 30px;
+    padding-bottom: 30px;
     background-color: #e2bd34;
     border: #000000;
     border-radius: 2em;
 }
+
 
 .article-text {
     text-align: justify;
@@ -78,6 +81,13 @@ ol, ul {
     display: block;
     width: 100%;
     border-radius: 0.5em;
+}
+
+.img3 {
+    width: 400px;
+    display: block;
+    width: 100%;
+    border-radius: 400px;
 }
 
 .more-articles {
