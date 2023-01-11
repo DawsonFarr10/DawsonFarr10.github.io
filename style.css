@@ -52,6 +52,41 @@ ol, ul {
             CLASSES
 ******************************/
 
+.article {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 2em;
+    background-color: #e2bd34;
+    border: #000000;
+    border-radius: 2em;
+}
+
+.article-text {
+    text-align: justify;
+}
+
+.img {
+    width: 400px;
+    display: block;
+    width: 100%;
+    border-radius: 1em;
+}
+
+.img2 {
+    width: 100px;
+    display: block;
+    width: 100%;
+    border-radius: 0.5em;
+}
+
+.more-articles {
+    display: flex;
+    text-align: right;
+    align-items: flex-end;
+    justify-content: end;
+}
+
 .centered {
     text-align: center;
 }
@@ -111,22 +146,12 @@ ol, ul {
     color: #ff0000;
 }
 
-.cover-image {
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .d-block {
     display: block;
 }
+
 .d-flex {
     display: flex;
-}
-
-.image figcaption {
-    font-size: .75em;
-    margin-top: .5em;
-    text-align: center;
 }
 
 .navbar {
@@ -135,6 +160,7 @@ ol, ul {
     font-family: euclid_circular_asemibold, helvetica;
     font-size: 1.2em;
 }
+
 .navbar .container{
     align-items: center;
     display: flex;
@@ -152,7 +178,6 @@ ol, ul {
     list-style: none;
     padding: 0;
     justify-content: center;
-    
 }
 
 .navbar-nav li {
