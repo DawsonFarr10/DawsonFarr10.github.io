@@ -25,6 +25,7 @@ body {
     font-family: helvetica, arial, sans-serif;
     line-height: 1.5;
     margin: 0;
+    background-color: #DDDDDD;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -63,7 +64,6 @@ ol, ul {
     border: #000000;
     border-radius: 2em;
 }
-
 
 .article-text {
     text-align: justify;
@@ -169,6 +169,7 @@ ol, ul {
     padding: .5em;
     font-family: euclid_circular_asemibold, helvetica;
     font-size: 1.2em;
+    background-color: #ffffff;
 }
 
 .navbar .container{
