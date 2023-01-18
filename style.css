@@ -113,7 +113,9 @@ ol, ul {
 
 .img5 {
     height: 150px;
-    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .padding0 {
