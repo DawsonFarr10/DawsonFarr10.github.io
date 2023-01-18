@@ -69,6 +69,11 @@ ol, ul {
     text-align: justify;
 }
 
+.background {
+    background-color: #e2bd34;
+    padding: 15px;
+}
+
 .img {
     width: 400px;
     display: block;
@@ -88,6 +93,12 @@ ol, ul {
     display: block;
     width: 100%;
     border-radius: 400px;
+}
+
+.img4 {
+    width: 100%;
+    padding-top: 40px;
+    height: 400px;
 }
 
 .more-articles {
