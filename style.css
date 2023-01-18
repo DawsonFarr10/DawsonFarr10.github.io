@@ -74,6 +74,16 @@ ol, ul {
     padding: 15px;
 }
 
+.honours-page {
+    padding: 25px;
+    background-color:#f15751;
+    border-radius: 1.5em;
+}
+
+.col-honours {
+    margin-top: 20px;
+}
+
 .img {
     width: 400px;
     display: block;
@@ -99,6 +109,15 @@ ol, ul {
     width: 100%;
     padding-top: 40px;
     height: 400px;
+}
+
+.img5 {
+    height: 150px;
+    
+}
+
+.padding0 {
+    padding: 0%;
 }
 
 .more-articles {
